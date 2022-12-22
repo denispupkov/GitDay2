@@ -6,4 +6,6 @@ public class ContactPage {
     // youtube added
     //email added
 
+    //added some useful methods();
+
 }
